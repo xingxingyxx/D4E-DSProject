@@ -1,0 +1,7 @@
+# raw data is not redistributed: re-download with notebooks/00_fetch_external_data.ipynb
+data/external/*
+!data/external/manifest.json
+data/insideairbnb_slim/
+__pycache__/
+.ipynb_checkpoints/
+results/t1_oof_predictions.csv.gz

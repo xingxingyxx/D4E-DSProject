@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+scipy>=1.13
+shapely>=2.0
+matplotlib>=3.8
+jupyter
