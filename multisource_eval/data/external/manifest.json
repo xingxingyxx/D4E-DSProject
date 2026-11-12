@@ -1,0 +1,62 @@
+{
+  "osm_paris_poi.json": {
+    "url": "https://overpass-api.de/api/interpreter",
+    "bytes": 13024390,
+    "sha256": "88beaa722d20d49dc85623a15874c532a17736b4a50746455bf85a1d6dd85c45",
+    "downloaded": "2026-11-12"
+  },
+  "dvf_75_2022.csv.gz": {
+    "url": "https://files.data.gouv.fr/geo-dvf/latest/csv/2022/departements/75.csv.gz",
+    "bytes": 2406855,
+    "sha256": "8c01ec183c755510772905bbb2ebc972b3d8e694b1fb0192f28c5b015178c904",
+    "downloaded": "2026-11-12"
+  },
+  "dvf_75_2023.csv.gz": {
+    "url": "https://files.data.gouv.fr/geo-dvf/latest/csv/2023/departements/75.csv.gz",
+    "bytes": 1971495,
+    "sha256": "67c1728674c741360b2ee46f510721f24877aa2d15a02624f62082055b798469",
+    "downloaded": "2026-11-12"
+  },
+  "dvf_75_2024.csv.gz": {
+    "url": "https://files.data.gouv.fr/geo-dvf/latest/csv/2024/departements/75.csv.gz",
+    "bytes": 1819428,
+    "sha256": "e909ea2eb803ae4b1260c991879e40b273764a8582edb47fb1b70202c36cbc55",
+    "downloaded": "2026-11-12"
+  },
+  "dvf_75_2025.csv.gz": {
+    "url": "https://files.data.gouv.fr/geo-dvf/latest/csv/2025/departements/75.csv.gz",
+    "bytes": 2056139,
+    "sha256": "b8110139f4f2c1c83fce33e6a5a7d7f17ab95ffccbc255292edc08f6781a8e51",
+    "downloaded": "2026-11-12"
+  },
+  "iris_paris.geojson": {
+    "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/georef-france-iris/exports/geojson?where=dep_code%3D%2275%22",
+    "bytes": 2588826,
+    "sha256": "098aa1975cd05506d718fd20ef5750407ade17147c9b4b550b4f78713c2e6a42",
+    "downloaded": "2026-11-12"
+  },
+  "filosofi_iris_2021_disp.zip": {
+    "url": "https://www.insee.fr/fr/statistiques/fichier/8229323/BASE_TD_FILO_IRIS_2021_DISP_CSV.zip",
+    "bytes": 913460,
+    "sha256": "ba9f39560f27fbfda3f414d51fbaa776cc256f940039e6b55417bb4c9ff33bb5",
+    "downloaded": "2026-11-12"
+  },
+  "filosofi_iris_2021_dec.zip": {
+    "url": "https://www.insee.fr/fr/statistiques/fichier/8229323/BASE_TD_FILO_IRIS_2021_DEC_CSV.zip",
+    "bytes": 855657,
+    "sha256": "88c1e743c9ecf70e6c3134c304b63bd679570c258af1dc3b41f145587f7644a3",
+    "downloaded": "2026-11-12"
+  },
+  "crime_communes_france.csv.gz": {
+    "url": "https://static.data.gouv.fr/resources/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/20260709-115942/donnee-data.gouv-2025-geographie2026-produit-le2026-06-25.csv.gz",
+    "bytes": 39932450,
+    "sha256": "bb17d7c142c96da85297071c8505c1fde32779909cd1f7463c0421a43ec2ee74",
+    "downloaded": "2026-11-12"
+  },
+  "crime_paris.csv": {
+    "url": "https://static.data.gouv.fr/resources/bases-statistiques-communale-departementale-et-regionale-de-la-delinquance-enregistree-par-la-police-et-la-gendarmerie-nationales/20260709-115942/donnee-data.gouv-2025-geographie2026-produit-le2026-06-25.csv.gz",
+    "bytes": 383013,
+    "sha256": "5e12affd91fe24df812c0a818345d4b1f7f04e479a98c9986ce309b64d13a72f",
+    "downloaded": "2026-11-12"
+  }
+}
